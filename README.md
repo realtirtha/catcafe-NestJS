@@ -49,7 +49,7 @@ Example request body:
     "customer_name": "Tirtha",
     "customer_id": "38",
     "customer_order": "Iced cafe Latte",
-    "customer_orderQ": 2
+    "customer_orderQ": "2"
 }
 ```
 
