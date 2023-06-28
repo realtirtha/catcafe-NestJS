@@ -1,4 +1,7 @@
 import { Module } from '@nestjs/common';
+import { CatcafeController } from './catcafe.controller';
 
-@Module({})
+@Module({
+    controllers: [CatcafeController]
+})
 export class CatcafeModule {}
