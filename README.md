@@ -46,10 +46,10 @@ To create a new customer order, send a POST request to this endpoint with the fo
 Example request body:
 ```
 {
-    "name": "Tirtha",
-    "id": "38",
-    "order": "Iced cafe Latte",
-    "quantity": 2
+    "customer_name": "Tirtha",
+    "customer_id": "38",
+    "customer_order": "Iced cafe Latte",
+    "customer_orderQ": 2
 }
 ```
 
