@@ -14,7 +14,7 @@ export class CatCafeRepository{
     }
 
     async CreateFoodOrder(customer_name: string, customer_id:string, customer_order:string, customer_orderQ:string){
-        const contents = await readFile('catcafe', 'utf8');
+        const contents = await readFile('catcafe.json', 'utf8');
         const catcafe = JSON.parse(contents);
         
         //create new json
