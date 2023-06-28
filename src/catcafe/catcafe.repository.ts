@@ -19,7 +19,7 @@ export class CatCafeRepository{
         
         //create new json
         const newcatcafe = {
-            name: customer_id,
+            name: customer_name,
             id: customer_id,
             order: customer_order,
             quantity: customer_orderQ
