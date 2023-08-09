@@ -14,7 +14,7 @@ Catcafe is an API built using the Nest.js framework. It is designed to serve as 
 
 To run the Catcafe API locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/realtirtha/catcafe-NestJS.git`
+1. Clone the repository: `git clone https://github.com/tirthacodes/catcafe-NestJS.git`
 2. Navigate to the project directory: `cd catcafe-NestJS`
 3. Install the dependencies: `npm install`
 
@@ -55,7 +55,7 @@ Example request body:
 
 ## Contributing
 
-Contributions to Catcafe are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/realtirtha/catcafe-NestJS).
+Contributions to Catcafe are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/tirthacodes/catcafe-NestJS).
 
 ## Credits
 
